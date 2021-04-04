@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ValeAzul\\source\\repos\\interface-csharp\\interface-csharp\\interface-csharp.csproj",
+      "projectUniqueName": "C:\\Users\\ValeAzul\\Desktop\\interface-csharp\\interface-csharp\\interface-csharp.csproj",
       "projectName": "interface-csharp",
-      "projectPath": "C:\\Users\\ValeAzul\\source\\repos\\interface-csharp\\interface-csharp\\interface-csharp.csproj",
+      "projectPath": "C:\\Users\\ValeAzul\\Desktop\\interface-csharp\\interface-csharp\\interface-csharp.csproj",
       "packagesPath": "C:\\Users\\ValeAzul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ValeAzul\\source\\repos\\interface-csharp\\interface-csharp\\obj\\",
+      "outputPath": "C:\\Users\\ValeAzul\\Desktop\\interface-csharp\\interface-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

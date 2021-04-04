@@ -27,8 +27,10 @@ namespace interface_csharp.controller {
 
             rentalService.ProcessIvoice(carRental);
 
+
             Console.WriteLine("Invoice: ");
             Console.WriteLine(carRental.Invoice);
+            Console.WriteLine("<<<<--------------------------->>>")
 
         }
     }
