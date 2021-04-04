@@ -1,0 +1,13 @@
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.exe
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.deps.json
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.runtimeconfig.json
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.runtimeconfig.dev.json
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.dll
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\bin\Debug\netcoreapp3.1\interface-csharp.pdb
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.csprojAssemblyReference.cache
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.AssemblyInfoInputs.cache
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.AssemblyInfo.cs
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.csproj.CoreCompileInputs.cache
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.dll
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.pdb
+C:\Users\ValeAzul\source\repos\interface-csharp\interface-csharp\obj\Debug\netcoreapp3.1\interface-csharp.genruntimeconfig.cache
